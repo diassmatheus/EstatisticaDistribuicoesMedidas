@@ -1,10 +1,11 @@
 # <p align="center"> <b> Curso: Estatística com Python - Frequências e Medidas </b> 
 
-####  📓 <a href="preencher">Notebook</a> desenvolvido durante o curso   
+####  📓 <a href="https://github.com/diassmatheus/EstatisticaDistribuicoesMedidas/blob/main/Curso_de_Estat%C3%ADstica_Parte_1.ipynb">Notebook</a> com o conteúdo teórico do curso
+####  📓 <a href="https://github.com/diassmatheus/EstatisticaDistribuicoesMedidas/blob/main/An%C3%A1lise_Descritiva.ipynb">Notebook</a> com o projeto final desenvolvido no curso
 ####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas">Alura</a> 
 ####  ⏰ Duração: 10h 
 ####  📜 Conteúdo:
-- Identificação do tipo de dado
+- Tipos de dados
 - Distribuição de frequência
 - Medidas de tendência central
 - Medidas separatrizes
